@@ -1,4 +1,4 @@
-# cof8a4508be675877c9ed624e
+# simple JS carousel
 
 Quick start:
 
