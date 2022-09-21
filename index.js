@@ -18,8 +18,8 @@ function displayDots() {
 document.getElementById('carousel-button-next').addEventListener('click', moveToNextSlide);
 document.getElementById('carousel-button-prev').addEventListener('click', moveToPrevSlide);
 
-//auto transition slides after 2 secs
-setInterval(moveToNextSlide, 2000)
+//auto transition slides after 3 secs
+setInterval(moveToNextSlide, 3000)
 
 function hideAllSlides() {
     for (let slide of slides) {
